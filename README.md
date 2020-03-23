@@ -43,7 +43,8 @@ def score_sen(text):
     return(score_of_sentences)
    
 ===================================================================================================================
-ste3 :
+
+step3 :
 *******************************************************************************************************************
 normalising the sentence : normalise the sentence score =  Total score of sentence/total number of words in a sentence
 def text_summary(text):
